@@ -1,0 +1,18 @@
+.odd-number {
+    background-color: #ffb6c1;
+    font-family: "DejaVu Sans", "Verdana", sans-serif;
+}
+
+#first-identifier {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.makes-thirty-four {
+    font-size: 24px;
+}
+
+#second-identifier {
+    background-color: #90ee90;
+    font-weight: 700;
+}
